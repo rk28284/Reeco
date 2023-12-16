@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "product": "Banana",
+      "brand": "Fresh Harvest",
+      "price": 1,
+      "quantity": 22,
+      "total": 15,
+      "status": "Missing",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/800px-Banana-Single.jpg"
+    },
+    {
+      "id": 2,
+      "product": "Apple",
+      "brand": "Sub-Fresh",
+      "price": 1.7,
+      "quantity": 156,
+      "total": 87,
+      "status": "Missing",
+      "img": "https://subzfresh.com/wp-content/uploads/2022/04/apple_158989157.jpg"
+    },
+    {
+      "id": 3,
+      "product": "Banana",
+      "brand": "Fresh Harvest",
+      "price": 1,
+      "quantity": 22,
+      "total": 15,
+      "status": "Approved",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/800px-Banana-Single.jpg"
+    },
+    {
+      "id": 4,
+      "product": "Apple",
+      "brand": "Sub-Fresh",
+      "price": 1.7,
+      "quantity": 156,
+      "total": 87,
+      "status": "Approved",
+      "img": "https://subzfresh.com/wp-content/uploads/2022/04/apple_158989157.jpg"
+    },
+    {
+      "id": 5,
+      "product": "Apple",
+      "brand": "Sub-Fresh",
+      "price": 1.7,
+      "quantity": 156,
+      "total": 87,
+      "status": "Approved",
+      "img": "https://subzfresh.com/wp-content/uploads/2022/04/apple_158989157.jpg"
+    }
+  ]
+}
