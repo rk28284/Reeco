@@ -45,3 +45,6 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/rk28284/Reeco.git
+
+2. **npm i**
+3.**npm start**
