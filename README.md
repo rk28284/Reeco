@@ -1,5 +1,14 @@
 # CAW Studios Assignment
+Dashboard Page
 <img width="950" alt="Screenshot 2023-12-18 162413" src="https://github.com/rk28284/Reeco/assets/112754760/68de01b0-56ef-4101-9de0-0bcd48d53f68">
+Add Product 
+<img width="948" alt="Screenshot 2023-12-18 162758" src="https://github.com/rk28284/Reeco/assets/112754760/09e3480a-a742-4d1b-bd67-306058cba975">
+
+Product Table
+<img width="806" alt="Screenshot 2023-12-18 162948" src="https://github.com/rk28284/Reeco/assets/112754760/30f4a5de-7dd9-43a9-a4b9-560d3cdef170">
+
+
+
 
 ## Overview
 
