@@ -1,4 +1,5 @@
 # CAW Studios Assignment
+<img width="950" alt="Screenshot 2023-12-18 162413" src="https://github.com/rk28284/Reeco/assets/112754760/68de01b0-56ef-4101-9de0-0bcd48d53f68">
 
 ## Overview
 
