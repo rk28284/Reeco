@@ -10,8 +10,7 @@ Product Table
 <img width="806" alt="Screenshot 2023-12-18 162948" src="https://github.com/rk28284/Reeco/assets/112754760/30f4a5de-7dd9-43a9-a4b9-560d3cdef170">
 
 
-Edit Product
-<img width="953" alt="Screenshot 2023-12-18 163155" src="https://github.com/rk28284/Reeco/assets/112754760/8068dd1c-e85e-4ab0-8dc6-0290485246b1">
+
 
 
 ## Overview
