@@ -49,4 +49,4 @@ To run the project locally, follow these steps:
    git clone https://github.com/rk28284/Reeco.git
 
 2. **npm i** <br/>
-3.**npm start**
+3. **npm start**
